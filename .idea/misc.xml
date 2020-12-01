@@ -3,9 +3,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/xiaoming-spring-boot-starter-autoconfigure/pom.xml" />
-        <option value="$PROJECT_DIR$/xiaoming-spring-boot-starter/pom.xml" />
-        <option value="$PROJECT_DIR$/xiaoming-spring-boot-starter-test/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-01-first-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-02-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-03-diy-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-03-diy-starter-test/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-03-diy-starter-autoconfigure/pom.xml" />
       </list>
     </option>
   </component>

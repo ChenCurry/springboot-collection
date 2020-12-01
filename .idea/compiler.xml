@@ -6,12 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xiaoming-spring-boot-starter-test" />
-        <module name="xiaoming-spring-boot-starter" />
-        <module name="xiaoming-spring-boot-starter-autoconfigure" />
+        <module name="sb-02-springmvc" />
+        <module name="sb-01-first-springboot" />
+        <module name="sb-03-diy-starter-autoconfigure" />
+        <module name="sb-03-diy-starter-test" />
+        <module name="sb-03-diy-starter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="sb-01-first-springboot" target="1.8" />
+      <module name="sb-02-springmvc" target="1.8" />
+      <module name="sb-03-diy-starter" target="1.5" />
+      <module name="sb-03-diy-starter-autoconfigure" target="1.8" />
+      <module name="sb-03-diy-starter-test" target="1.8" />
+      <module name="sb-03-diy-stater" target="1.5" />
       <module name="xiaoming-spring-boot-starter" target="1.5" />
       <module name="xiaoming-spring-boot-starter-autoconfigure" target="1.8" />
       <module name="xiaoming-spring-boot-starter-test" target="1.8" />
@@ -19,6 +27,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sb-01-first-springboot" options="-parameters" />
+      <module name="sb-02-springmvc" options="-parameters" />
+      <module name="sb-03-diy-starter-autoconfigure" options="-parameters" />
+      <module name="sb-03-diy-starter-test" options="-parameters" />
       <module name="xiaoming-spring-boot-starter-autoconfigure" options="-parameters" />
       <module name="xiaoming-spring-boot-starter-test" options="-parameters" />
     </option>

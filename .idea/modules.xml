@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/xiaoming-spring-boot-starter/xiaoming-spring-boot-starter.iml" filepath="$PROJECT_DIR$/xiaoming-spring-boot-starter/xiaoming-spring-boot-starter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xiaoming-spring-boot-starter-autoconfigure/xiaoming-spring-boot-starter-autoconfigure.iml" filepath="$PROJECT_DIR$/xiaoming-spring-boot-starter-autoconfigure/xiaoming-spring-boot-starter-autoconfigure.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xiaoming-spring-boot-starter-test/xiaoming-spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/xiaoming-spring-boot-starter-test/xiaoming-spring-boot-starter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-01-first-springboot/sb-01-first-springboot.iml" filepath="$PROJECT_DIR$/sb-01-first-springboot/sb-01-first-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-02-springmvc/sb-02-springmvc.iml" filepath="$PROJECT_DIR$/sb-02-springmvc/sb-02-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-03-diy-starter/sb-03-diy-starter.iml" filepath="$PROJECT_DIR$/sb-03-diy-starter/sb-03-diy-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-03-diy-starter-autoconfigure/sb-03-diy-starter-autoconfigure.iml" filepath="$PROJECT_DIR$/sb-03-diy-starter-autoconfigure/sb-03-diy-starter-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-03-diy-starter-test/sb-03-diy-starter-test.iml" filepath="$PROJECT_DIR$/sb-03-diy-starter-test/sb-03-diy-starter-test.iml" />
     </modules>
   </component>
 </project>
