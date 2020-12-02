@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/sb-03-diy-starter-autoconfigure/sb-03-diy-starter-autoconfigure.iml" filepath="$PROJECT_DIR$/sb-03-diy-starter-autoconfigure/sb-03-diy-starter-autoconfigure.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-03-diy-starter-test/sb-03-diy-starter-test.iml" filepath="$PROJECT_DIR$/sb-03-diy-starter-test/sb-03-diy-starter-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-04-jdbc/sb-04-jdbc.iml" filepath="$PROJECT_DIR$/sb-04-jdbc/sb-04-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-05-druid/sb-05-druid.iml" filepath="$PROJECT_DIR$/sb-05-druid/sb-05-druid.iml" />
     </modules>
   </component>
 </project>
