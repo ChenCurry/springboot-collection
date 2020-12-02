@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/sb-06-mybatis/sb-06-mybatis.iml" filepath="$PROJECT_DIR$/sb-06-mybatis/sb-06-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-07-employee-mgr/sb-07-employee-mgr.iml" filepath="$PROJECT_DIR$/sb-07-employee-mgr/sb-07-employee-mgr.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-08-security/sb-08-security.iml" filepath="$PROJECT_DIR$/sb-08-security/sb-08-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-09-hello-shiro/sb-09-hello-shiro.iml" filepath="$PROJECT_DIR$/sb-09-hello-shiro/sb-09-hello-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-09-shiro/sb-09-shiro.iml" filepath="$PROJECT_DIR$/sb-09-shiro/sb-09-shiro.iml" />
     </modules>
   </component>
 </project>

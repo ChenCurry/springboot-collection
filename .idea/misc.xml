@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/sb-06-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/sb-07-employee-mgr/pom.xml" />
         <option value="$PROJECT_DIR$/sb-08-security/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-09-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-09-hello-shiro/pom.xml" />
       </list>
     </option>
   </component>
