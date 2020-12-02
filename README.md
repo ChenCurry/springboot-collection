@@ -9,3 +9,11 @@ springboot和web端的交互
 这三个项目为自定义springboot-starter启动器
 sb-03-diy-starter是个maven空项目
 sb-03-diy-starter-autoconfigure是个springboot项目，需要著启动类
+# sb-04-jdbc
+新jdbc驱动com.mysql.cj.jdbc.Driver
+默认数据源连接池com.zaxxer.hikari.HikariDataSource
+真的，版本问题恶心死人，项目一定要演化而不要定制！！
+真的被恶心到了，写了的代码不能丢啊啊啊啊啊，自己都不能复现了！！！
+我的天！！！！！我把yml文件内容拷贝到properties里边！！！死活找不到问题！！！
+
+

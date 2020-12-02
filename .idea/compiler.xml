@@ -9,6 +9,7 @@
         <module name="sb-02-springmvc" />
         <module name="sb-01-first-springboot" />
         <module name="sb-03-diy-starter-autoconfigure" />
+        <module name="sb-04-jdbc" />
         <module name="sb-03-diy-starter-test" />
         <module name="sb-03-diy-starter" />
       </profile>
@@ -20,6 +21,7 @@
       <module name="sb-03-diy-starter-autoconfigure" target="1.8" />
       <module name="sb-03-diy-starter-test" target="1.8" />
       <module name="sb-03-diy-stater" target="1.5" />
+      <module name="sb-04-jdbc" target="1.8" />
       <module name="xiaoming-spring-boot-starter" target="1.5" />
       <module name="xiaoming-spring-boot-starter-autoconfigure" target="1.8" />
       <module name="xiaoming-spring-boot-starter-test" target="1.8" />
@@ -31,6 +33,7 @@
       <module name="sb-02-springmvc" options="-parameters" />
       <module name="sb-03-diy-starter-autoconfigure" options="-parameters" />
       <module name="sb-03-diy-starter-test" options="-parameters" />
+      <module name="sb-04-jdbc" options="-parameters" />
       <module name="xiaoming-spring-boot-starter-autoconfigure" options="-parameters" />
       <module name="xiaoming-spring-boot-starter-test" options="-parameters" />
     </option>

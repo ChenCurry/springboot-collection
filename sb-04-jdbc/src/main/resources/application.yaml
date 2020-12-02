@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: root
+    password: root
+    #?serverTimezone=UTC解决时区的报错 &useSSL=false
+    url: jdbc:mysql://106.75.32.166:3306/ssmbuild?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
