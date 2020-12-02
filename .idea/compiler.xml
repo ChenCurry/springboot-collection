@@ -16,6 +16,7 @@
         <module name="sb-03-diy-starter-test" />
         <module name="sb-06-mybatis" />
         <module name="sb-03-diy-starter" />
+        <module name="sb-10-swagger" />
         <module name="sb-07-employee-mgr" />
         <module name="sb-09-hello-shiro" />
         <module name="sb-09-shiro" />
@@ -34,6 +35,7 @@
       <module name="sb-08-security" target="1.8" />
       <module name="sb-09-hello-shiro" target="1.5" />
       <module name="sb-09-shiro" target="1.8" />
+      <module name="sb-10-swagger" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -49,6 +51,7 @@
       <module name="sb-08-security" options="-parameters" />
       <module name="sb-09-hello-shiro" options="" />
       <module name="sb-09-shiro" options="-parameters" />
+      <module name="sb-10-swagger" options="-parameters" />
     </option>
   </component>
 </project>

@@ -26,3 +26,5 @@ sb-03-diy-starter-autoconfigure是个springboot项目，需要著启动类
 安全/权限管理security
 # sb-09-shiro
 安全/权限管理shiro
+# sb-10-swagger
+API文档规范
