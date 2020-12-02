@@ -17,4 +17,9 @@ sb-03-diy-starter-autoconfigure是个springboot项目，需要著启动类
 我的天！！！！！我把yml文件内容拷贝到properties里边！！！死活找不到问题！！！
 # sb-05-druid
 我的天了，少导一个依赖出现这鬼问题真是死活无改
+编码格式不要随便设置修改
+# sb-06-mybatis
+写过的代码一定要留下！！
+# sb-07-employee-mgr
+简单员工管理系统
 

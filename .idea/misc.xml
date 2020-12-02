@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/sb-03-diy-starter-autoconfigure/pom.xml" />
         <option value="$PROJECT_DIR$/sb-04-jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/sb-05-druid/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-06-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-07-employee-mgr/pom.xml" />
       </list>
     </option>
   </component>

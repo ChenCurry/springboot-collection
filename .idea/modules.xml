@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/sb-03-diy-starter-test/sb-03-diy-starter-test.iml" filepath="$PROJECT_DIR$/sb-03-diy-starter-test/sb-03-diy-starter-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-04-jdbc/sb-04-jdbc.iml" filepath="$PROJECT_DIR$/sb-04-jdbc/sb-04-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-05-druid/sb-05-druid.iml" filepath="$PROJECT_DIR$/sb-05-druid/sb-05-druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-06-mybatis/sb-06-mybatis.iml" filepath="$PROJECT_DIR$/sb-06-mybatis/sb-06-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-07-employee-mgr/sb-07-employee-mgr.iml" filepath="$PROJECT_DIR$/sb-07-employee-mgr/sb-07-employee-mgr.iml" />
     </modules>
   </component>
 </project>

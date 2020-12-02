@@ -12,7 +12,9 @@
         <module name="sb-03-diy-starter-autoconfigure" />
         <module name="sb-04-jdbc" />
         <module name="sb-03-diy-starter-test" />
+        <module name="sb-06-mybatis" />
         <module name="sb-03-diy-starter" />
+        <module name="sb-07-employee-mgr" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +25,8 @@
       <module name="sb-03-diy-starter-test" target="1.8" />
       <module name="sb-04-jdbc" target="1.8" />
       <module name="sb-05-druid" target="1.8" />
+      <module name="sb-06-mybatis" target="1.8" />
+      <module name="sb-07-employee-mgr" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -33,6 +37,8 @@
       <module name="sb-03-diy-starter-test" options="-parameters" />
       <module name="sb-04-jdbc" options="-parameters" />
       <module name="sb-05-druid" options="-parameters" />
+      <module name="sb-06-mybatis" options="-parameters" />
+      <module name="sb-07-employee-mgr" options="-parameters" />
     </option>
   </component>
 </project>
