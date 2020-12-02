@@ -12,6 +12,7 @@
         <module name="sb-13-dubbo-provider" />
         <module name="sb-11-task" />
         <module name="sb-05-druid" />
+        <module name="sb-12-jedis" />
         <module name="sb-09-hello-shiro" />
         <module name="sb-07-employee-mgr" />
         <module name="sb-03-diy-starter-autoconfigure" />
@@ -41,6 +42,7 @@
       <module name="sb-09-shiro" target="1.8" />
       <module name="sb-10-swagger" target="1.8" />
       <module name="sb-11-task" target="1.8" />
+      <module name="sb-12-jedis" target="1.5" />
       <module name="sb-12-redis" target="1.8" />
       <module name="sb-13-dubbo-consumer" target="1.8" />
       <module name="sb-13-dubbo-provider" target="1.8" />

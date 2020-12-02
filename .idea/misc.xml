@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/sb-12-redis/pom.xml" />
         <option value="$PROJECT_DIR$/sb-13-dubbo-provider/pom.xml" />
         <option value="$PROJECT_DIR$/sb-13-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-12-jedis/pom.xml" />
       </list>
     </option>
   </component>
