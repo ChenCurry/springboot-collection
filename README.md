@@ -22,4 +22,5 @@ sb-03-diy-starter-autoconfigure是个springboot项目，需要著启动类
 写过的代码一定要留下！！
 # sb-07-employee-mgr
 简单员工管理系统
-
+# sb-08-security
+安全/权限管理
